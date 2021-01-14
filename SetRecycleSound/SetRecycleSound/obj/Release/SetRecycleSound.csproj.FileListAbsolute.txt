@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\bin\Release\SetRecycleSound.exe.config
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\bin\Release\SetRecycleSound.exe
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\bin\Release\SetRecycleSound.pdb
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.Properties.Resources.resources
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.exe
+C:\Users\User\source\repos\SetRecycleSound\SetRecycleSound\obj\Release\SetRecycleSound.pdb
